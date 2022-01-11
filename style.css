@@ -7,15 +7,11 @@ h1{
 .orange{
     color: orange;
 }
+.tomato{
+    color: tomato;
+}
 .display{
     display: flex;
-}
-.width{
-    width: 50%;
-    margin-left: 10%;
-}
-.width img{
-    width: 75%;
 }
 .vertical{
     padding-left: 15px;
@@ -29,6 +25,81 @@ h1{
     padding: 10px 40px;
     border-radius: 5px;
 }
-#head{
+.headline{
     text-align: center;
+}
+.black{
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.box{
+    padding: 20px;
+    border-radius: 20px;
+}
+.box img{
+    width: 40%;
+}
+.width{
+    width: 55%;
+}
+.width2{
+    width: 45%;
+}
+.width2 img{
+    width: 100%;
+}
+.width3{
+    width: 80%;
+}
+.width4{
+    width: 40%;
+}
+.width4 img{
+    width: 90%;
+}
+.width5{
+    width: 45%;
+}
+.width6{
+    width: 50%;
+}
+.width6 img{
+    width: 110%;
+}
+.margin{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.margin2{
+    margin: 5%;
+}
+.margin3{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.color1{
+    background-color: linen; 
+}
+.color2{
+    background-color: rgb(224, 222, 222);
+}
+.color3{
+    background-color:lightgoldenrodyellow;
+}
+.left{
+    margin-left: 10%;
+}
+.right{
+    margin-right: 10%;
+}
+.top{
+    margin-top: 10%;
+}
+.top2{
+    margin-top: 7%;
+}
+.bottom{
+    font-size: 15px;
 }
